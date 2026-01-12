@@ -6,6 +6,12 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Home</title>
+    <link>https://heleriadm-collab.github.io/SAGCHeleri/Home</link>
+    <guid>https://heleriadm-collab.github.io/SAGCHeleri/Home</guid>
+    <description><![CDATA[ Visão Geral . ]]></description>
+    <pubDate>Mon, 12 Jan 2026 01:00:38 GMT</pubDate>
+  </item><item>
     <title>Q260111_1954 Conta de Acesso Sistema da Administradora Apolo</title>
     <link>https://heleriadm-collab.github.io/SAGCHeleri/questoes/Q260111_1954-Conta-de-Acesso-Sistema-da-Administradora-Apolo</link>
     <guid>https://heleriadm-collab.github.io/SAGCHeleri/questoes/Q260111_1954-Conta-de-Acesso-Sistema-da-Administradora-Apolo</guid>
@@ -21,7 +27,7 @@
     <title>2026-01-11</title>
     <link>https://heleriadm-collab.github.io/SAGCHeleri/diario/2026-01-11</link>
     <guid>https://heleriadm-collab.github.io/SAGCHeleri/diario/2026-01-11</guid>
-    <description><![CDATA[ diario_heleri Home 19:54 Questão - Heleri - Conta de Acesso Sistema da Administradora Apolo No âmbito da Gestão Condominial do Heleri, fica registrada questão Q260111_1954 Conta de Acesso Sistema da Administradora Apolo - Descrição: - QUE Conselheira Sra Lucia Cob 01 informa que existe sistema, disp... ]]></description>
+    <description><![CDATA[ diario_heleri Home 21:55 Coleta Reciclável Em Gestão Condominial do Heleri, segue registro de ato. ]]></description>
     <pubDate>Sun, 11 Jan 2026 21:26:00 GMT</pubDate>
   </item><item>
     <title>Dona Carmem</title>
@@ -59,12 +65,6 @@
     <guid>https://heleriadm-collab.github.io/SAGCHeleri/locais/instalacoes/Bot%C3%A3o-Port%C3%A3o-Interno</guid>
     <description><![CDATA[ instalacao Descrição: Onde: Composta por: Compõe: Andar Portaria, Sistema Interfone Tarefas de Rotina: Custo: Fornecedor: Análise: Risco: metadado [year:: 2026] | [month:: 01] | [day:: 11] | [dayWeek:: Sunday] | [dayWeekShort:: Sun] | [monthYear:: Jan] | [weekNumber:: 03] | [quarter:: 1] | [dayOfYea... ]]></description>
     <pubDate>Sun, 11 Jan 2026 21:00:00 GMT</pubDate>
-  </item><item>
-    <title>Banco do Pilotis</title>
-    <link>https://heleriadm-collab.github.io/SAGCHeleri/locais/instalacoes/Banco-do-Pilotis</link>
-    <guid>https://heleriadm-collab.github.io/SAGCHeleri/locais/instalacoes/Banco-do-Pilotis</guid>
-    <description><![CDATA[ instalacao Descrição: Onde: Composta por: Compõe: Andar Portaria, Hall Pilotis Tarefas de Rotina: Custo: Fornecedor: Análise: Risco: metadado [year:: 2026] | [month:: 01] | [day:: 11] | [dayWeek:: Sunday] | [dayWeekShort:: Sun] | [monthYear:: Jan] | [weekNumber:: 03] | [quarter:: 1] | [dayOfYear:: 0... ]]></description>
-    <pubDate>Sun, 11 Jan 2026 20:59:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
