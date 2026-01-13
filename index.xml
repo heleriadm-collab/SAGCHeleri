@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>Quartz 4</title>
+      <title>SAGC Heleri</title>
       <link>https://heleriadm-collab.github.io/SAGCHeleri/</link>
-      <description>Last 10 notes on Quartz 4</description>
+      <description>Last 10 notes on SAGC Heleri</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Q260113_1054 Análise-Estudo Migração Google Drive para heleri.adm</title>
+    <link>https://heleriadm-collab.github.io/SAGCHeleri/questoes/Q260113_1054-An%C3%A1lise-Estudo-Migra%C3%A7%C3%A3o-Google-Drive-para-heleri.adm</link>
+    <guid>https://heleriadm-collab.github.io/SAGCHeleri/questoes/Q260113_1054-An%C3%A1lise-Estudo-Migra%C3%A7%C3%A3o-Google-Drive-para-heleri.adm</guid>
+    <description><![CDATA[  Dar baixa questao Descrição: QUE Síndica solicita a Leonardo 402, estudo para internalização da documentação compartilhada via Google Drive da gestão precedente - QUE proposta inicial seria vincular repositório a conta [[heleri.adm@gmail.com - conta]], que terá controle a Administração que estiver ... ]]></description>
+    <pubDate>Tue, 13 Jan 2026 14:02:00 GMT</pubDate>
+  </item><item>
     <title>Q260113_0742 Troca Lâmpada da Lixeira</title>
     <link>https://heleriadm-collab.github.io/SAGCHeleri/questoes/Q260113_0742-Troca-L%C3%A2mpada-da-Lixeira</link>
     <guid>https://heleriadm-collab.github.io/SAGCHeleri/questoes/Q260113_0742-Troca-L%C3%A2mpada-da-Lixeira</guid>
@@ -15,7 +21,7 @@
     <title>2026-01-13</title>
     <link>https://heleriadm-collab.github.io/SAGCHeleri/diario/2026-01-13</link>
     <guid>https://heleriadm-collab.github.io/SAGCHeleri/diario/2026-01-13</guid>
-    <description><![CDATA[ diario_heleri Home 08:06 Ato Adm. - Gestão Heleri - Entrega Documentação Solicitada Em Gestão Condominial do Heleri, segue registro de ato. ]]></description>
+    <description><![CDATA[ diario_heleri Home 10:54 Questão - Heleri - Análise-Estudo Migração Google Drive para heleri.adm No âmbito da Gestão Condominial do Heleri, fica registrada questão Q260113_1054 Análise-Estudo Migração Google Drive para heleri.adm - Descrição: - QUE Síndica solicita a Leonardo 402, estudo para intern... ]]></description>
     <pubDate>Tue, 13 Jan 2026 10:33:00 GMT</pubDate>
   </item><item>
     <title>Q260112_1654 Visita SOS Elevadores Que Trava Abaixo do Peso Especificado</title>
@@ -59,12 +65,6 @@
     <guid>https://heleriadm-collab.github.io/SAGCHeleri/questoes/Q260112_1537-Registro-de-Risco-no-Port%C3%A3o-Entrada</guid>
     <description><![CDATA[  Dar baixa questao Descrição: - QUE Sr Rogerio Zelador, em momento anterior as férias comentou que há falha grave no Portão Entrada. ]]></description>
     <pubDate>Mon, 12 Jan 2026 18:41:00 GMT</pubDate>
-  </item><item>
-    <title>Pasta Prestação de Contas</title>
-    <link>https://heleriadm-collab.github.io/SAGCHeleri/heleri/Pasta-Presta%C3%A7%C3%A3o-de-Contas</link>
-    <guid>https://heleriadm-collab.github.io/SAGCHeleri/heleri/Pasta-Presta%C3%A7%C3%A3o-de-Contas</guid>
-    <description><![CDATA[ recurso metadado [year:: 2026] | [month:: 01] | [day:: 12] | [dayWeek:: Monday] | [dayWeekShort:: Mon] | [monthYear:: Jan] | [weekNumber:: 03] | [quarter:: 1] | [dayOfYear:: 012] | [weekNumber2:: 03-] | [month2:: 01-] | [day2:: 12-]. ]]></description>
-    <pubDate>Mon, 12 Jan 2026 18:33:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
