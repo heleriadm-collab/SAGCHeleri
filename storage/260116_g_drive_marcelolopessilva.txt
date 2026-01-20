@@ -1,0 +1,1134 @@
+﻿Listagem de caminhos de pasta
+O número de série do volume é 8431-BE15
+C:.
+|   20260119_google_drive_marcelolopessilva.txt
+|   20260119_google_drive_marcelolopessilva_PASTAS.txt
+|   260116_g_drive_marcelolopessilva.txt
+|   260116_PASTAS_g_drive_marcelolopessilva.txt
+|   arquivos.txt
+|   Balancete_Fev_15_Jan_16.xlsx
+|   Carta de cancelamento ABMR.doc.docx
+|   Evoluçao Custos Heleri 2022.xlsx
+|   inund_03092015.mp4
+|   
++---Cameras
+|   \---2024
+|           Bullet-20240504-165006-meia.mp4
+|           Entulho.mp4
+|           Porta_Fantasma.mp4
+|           
++---Condominio Laudo
+|   |   IMG_20170227_121326.jpg
+|   |   IMG_20170227_121330.jpg
+|   |   IMG_20170227_121336.jpg
+|   |   IMG_20170227_121339.jpg
+|   |   IMG_20170227_121343.jpg
+|   |   IMG_20170227_121349.jpg
+|   |   IMG_20170227_124408.jpg
+|   |   IMG_20170227_125656.jpg
+|   |   IMG_20170227_125709.jpg
+|   |   IMG_20170227_125719.jpg
+|   |   IMG_20170227_125733.jpg
+|   |   TR_ED HELERI_21 02 17(1).xlsx
+|   |   TR_ED HELERI_21 02 17.xlsx
+|   |   
+|   \---Fotos
+|           Foto 01 DSCN9102.JPG
+|           Foto 02 DSCN9100.JPG
+|           Foto 03 DSCN9099.JPG
+|           Foto 04 DSCN9085.JPG
+|           Foto 05 DSCN9086.JPG
+|           Foto 06 DSCN9088.JPG
+|           Foto 07 DSCN9078.JPG
+|           Foto 08 DSCN9076.JPG
+|           Foto 09 DSCN9079.JPG
+|           Foto 10 DSCN9097.JPG
+|           Foto 11 DSCN9090.JPG
+|           Foto 12 DSCN9103.JPG
+|           Foto 13 DSCN9092.JPG
+|           Foto 14 DSCN9091.JPG
+|           Foto 15 DSCN9089.JPG
+|           Foto 16 DSCN9101.JPG
+|           Foto 17 DSCN9074.JPG
+|           Foto 18 DSCN9071.JPG
+|           Foto 19 DSCN9109.JPG
+|           Foto 20 DSCN9110AA.JPG
+|           Foto 207 DSCN9096.JPG
+|           Foto 21 DSCN9106.JPG
+|           Foto 22 DSCN9066.JPG
+|           Foto 23 DSCN9063.JPG
+|           Foto 24.JPG
+|           Foto 25 DSCN9069AA.JPG
+|           Foto 26 DSCN9064.JPG
+|           Foto 27 BDSCN9065AA.JPG
+|           Foto 28 DSCN9059.JPG
+|           Foto 29 DSCN9036.JPG
+|           Foto 30 202DSCN9038.JPG
+|           Foto 31 DSCN9060.JPG
+|           Foto 32 DSCN9040.JPG
+|           Foto 33 DSCN9062.JPG
+|           Foto 34 DSCN9094.JPG
+|           Foto 35 DSCN9049AA.JPG
+|           Foto 36 DSCN9083AA.JPG
+|           Foto 37 DSCN9077.JPG
+|           Foto 38 DSCN9050.JPG
+|           Foto 39 DSCN9095.JPG
+|           Foto 40 DSCN9105.JPG
+|           Foto 41 DSCN9112.JPG
+|           Foto 42 DSCN9044.JPG
+|           Foto 43 DSCN9104.JPG
+|           Foto da Capa.JPG
+|           Thumbs.db
+|           
++---Conselheiro 2015
+|       15017901 Condomínio Heleri x Valdir Portela () (050615)  Condomínio3.pdf
+|       2459.pdf
+|       2460.pdf
+|       8_27_15 19_37 Office Lens(1).jpg
+|       8_27_15 19_37 Office Lens(2).jpg
+|       8_27_15 19_37 Office Lens(3).jpg
+|       8_27_15 19_37 Office Lens.jpg
+|       8_27_15 19_38 Office Lens(1).jpg
+|       8_27_15 19_38 Office Lens(2).jpg
+|       8_27_15 19_38 Office Lens(3).jpg
+|       8_27_15 19_38 Office Lens.jpg
+|       apolice.pdf
+|       Atestado Médico.jpg
+|       ATUALIZACAO.pdf
+|       carta Parcelamento HELERI.doc
+|       CONDOMINIO HELERI.pdf
+|       CONTRATO COND. ED. HELERI.doc
+|       CONTRATO COND. ED. JOSÉ HILARI.doc_
+|       Cotaçao1309719.pdf
+|       CUSTAS.pdf
+|       EQUIPE 10 PC.docx
+|       Gmail - Fwd_ Esclarecimentos balancetes Heleri.pdf
+|       Gmail - Inundaçao APTO 101.pdf
+|       Gmail - Recebimento PIS 2015 funcionário Rogério.pdf
+|       HELERI.docx
+|       image.png
+|       PLANILHA 102.pdf
+|       Proposta Light Soluçoes - OS2427.pdf
+|       
++---Convençao e Regulamento
+|   +---1963
+|   |       img002.jpg
+|   |       img003.jpg
+|   |       img004.jpg
+|   |       img005.jpg
+|   |       img006.jpg
+|   |       img007.jpg
+|   |       img008.jpg
+|   |       img009.jpg
+|   |       
+|   +---1980
+|   |       img010.jpg
+|   |       img011.jpg
+|   |       img012.jpg
+|   |       img013.jpg
+|   |       img014.jpg
+|   |       img015.jpg
+|   |       
+|   \---Regulamento Interno
+|           img016.jpg
+|           img017.jpg
+|           img018.jpg
+|           img019.jpg
+|           img020.jpg
+|           
++---Documentos escaneados condomínio
+|   |   COND-SG24-CEDAE-VENC 09-21.jpg
+|   |   COND-SG24-LIGHT-VENC 07-21.jpg
+|   |   img097(1).jpg
+|   |   img097.jpg
+|   |   img098(1).jpg
+|   |   img098.jpg
+|   |   SG24-COND-LIGHT-DEZ 20.pdf
+|   |   SG24-COND-LIGHT-OUT 20.jpg
+|   |   SG24-COND-NATURGY-10-2020.jpg
+|   |   SG24-seguro02-04.jpg
+|   |   SG24-seguro03-04.jpg
+|   |   SG24-seguro04-04.jpg
+|   |   
+|   +---03-MARÇO 20
+|   |       SG24-LIGHT COND 310320.jpg
+|   |       
+|   +---04-ABRIL 20
+|   |       SG24-COND-GAS-06042020.jpg
+|   |       SG24-CONEXCENTER COND 060420.pdf
+|   |       SG24-MARJOR COND 100420.pdf
+|   |       SG24-PRIMAVERA-COND 140420.pdf
+|   |       
+|   +---05-MAIO 20
+|   |       SG24-CEDAE COND 200520.jpg
+|   |       SG24-COND-NATURGY-09 05 2020.jpg
+|   |       SG24-LIGHT COND 040520.jpg
+|   |       
+|   +---06-JUNHO 20
+|   |       SG24-CEDAE COND-20 06 20.jpg
+|   |       SG24-LIGHT COND 010620.jpg
+|   |       
+|   +---07-JULHO 20
+|   |       SG24-CEDAE COND 200720.jpg
+|   |       SG24-COND-INTERFONE-10072020.pdf
+|   |       SG24-COND-LIGHT-3072020.jpg
+|   |       SG24-LIGHT COND 060720.jpg
+|   |       
+|   +---08-AGOSTO 20
+|   |       SG24-CEDAE COND 200820.jpg
+|   |       SG24-CEDAE-COND AGOSTO20.jpg
+|   |       SG24-COND-LIGHT-31082020.jpg
+|   |       
+|   +---09-SETEMBRO 20
+|   |       SG24-COND-CEDAE-20092020.jpg
+|   |       SG24-COND-LIGHT-30 09 2020.jpg
+|   |       SG24-COND-NATURGY-06 09 2020.jpg
+|   |       
+|   +---10-OUTUBRO 20
+|   |       SG24-COND-20-10-2020.pdf
+|   |       
+|   \---11-NOVEMBRO 20
+|           SG24-COND-20-11-2020.pdf
+|           
++---FOTOS COBERTURA 21 03 19
+|   +---ORIGINAL
+|   |       DJI_0001.DNG
+|   |       DJI_0002.DNG
+|   |       DJI_0003.DNG
+|   |       DJI_0004.DNG
+|   |       DJI_0005.DNG
+|   |       DJI_0006.DNG
+|   |       DJI_0007.DNG
+|   |       DJI_0008.DNG
+|   |       DJI_0009.DNG
+|   |       DJI_0010.DNG
+|   |       DJI_0970.DNG
+|   |       DJI_0971.DNG
+|   |       DJI_0972.DNG
+|   |       DJI_0973.DNG
+|   |       DJI_0974.DNG
+|   |       DJI_0975.DNG
+|   |       DJI_0977.DNG
+|   |       DJI_0979.DNG
+|   |       DJI_0980.DNG
+|   |       DJI_0981.DNG
+|   |       DJI_0982.DNG
+|   |       DJI_0983.DNG
+|   |       DJI_0984.DNG
+|   |       DJI_0985.DNG
+|   |       DJI_0986.DNG
+|   |       DJI_0987.DNG
+|   |       DJI_0988.DNG
+|   |       DJI_0989.DNG
+|   |       DJI_0991.DNG
+|   |       DJI_0999.DNG
+|   |       
+|   \---tratadas
+|           DJI_0001-tratada.jpg
+|           DJI_0002.jpg
+|           DJI_0003.jpg
+|           DJI_0004.jpg
+|           DJI_0005.jpg
+|           DJI_0006.jpg
+|           DJI_0007.jpg
+|           DJI_0008.jpg
+|           DJI_0009.jpg
+|           DJI_0010.jpg
+|           DJI_0970.jpg
+|           DJI_0971.jpg
+|           DJI_0972.jpg
+|           DJI_0973.jpg
+|           DJI_0974.jpg
+|           DJI_0975.jpg
+|           DJI_0976.jpg
+|           DJI_0977.jpg
+|           DJI_0978.jpg
+|           DJI_0979.jpg
+|           DJI_0980.jpg
+|           DJI_0981.jpg
+|           DJI_0982.jpg
+|           DJI_0983.jpg
+|           DJI_0984.jpg
+|           DJI_0985.jpg
+|           DJI_0986.jpg
+|           DJI_0987.jpg
+|           DJI_0988.jpg
+|           DJI_0989.jpg
+|           DJI_0990.jpg
+|           DJI_0991.jpg
+|           DJI_0992.jpg
+|           DJI_0993.jpg
+|           DJI_0994.jpg
+|           DJI_0995.jpg
+|           DJI_0996.jpg
+|           DJI_0997.jpg
+|           DJI_0998.jpg
+|           DJI_0999.jpg
+|           
+\---Síndico 2016 - 2017 - 2018 - 2019 - 2020 - 2021 - 2022 - 2023 - 2024 - 2025
+    |   1 - Contatos Condomínio - SG 24.xlsx
+    |   Calcula Cota - Heleri.xlsx
+    |   
+    +---AGE Fev 2019
+    |       AGE 2019 - Heleri.pptx
+    |       age2019.xlsx
+    |       Ata AGE 05 02 29.doc.docx
+    |       Lista de presença.docx
+    |       
+    +---AGE Mar 2025
+    |       AGE Março 2025.pptx
+    |       Ata AGE 24 03 2025.docx
+    |       Infiltraçao 22.pptx
+    |       Lista de presença AGE 2025.docx
+    |       
+    +---AGE Set 2016
+    |       Ata AGE 22 09 16 - Formatada Apolo.doc.docx
+    |       Ata AGE 22 Set 2016 Heleri.jpg
+    |       Ata da Assembléia Geral Extraordinária do Condomínio Edifício Heleri.docx
+    |       Cópia de Lista de presença.docx
+    |       Lista de presença.docx
+    |       Lista Presença Ata AGE 22 Set 2016 Heleri.jpg
+    |       
+    +---AGO Ago 2024
+    |       LISTA DE PRESENÇA ATA DE REUNIAO. 02 09 2024.docx
+    |       
+    +---AGO Jun 2017
+    |       AGO 2017 - Heleri.pptx
+    |       Apresentaçao AGO 2017.xlsx
+    |       ATA DA ASSEMBLEIA GERAL ORDINARIA 2017.docx
+    |       Convocaçao AGO Jun 2017.docx
+    |       
+    +---AGO Jun 2023
+    |       Assembleia 2023.xlsx
+    |       Ata AGO 15 06 23.docx
+    |       Ata AGO 2023 06 15 - Revisada Apolo.docx
+    |       Foto de Marcelo(1).jpg
+    |       Foto de Marcelo(2).jpg
+    |       Foto de Marcelo.jpg
+    |       Lista de presença.docx
+    |       
+    +---AGO Mai 2021
+    |       age2021.xlsx
+    |       Ata AGO 13 05 21.doc.docx
+    |       Atividades Rogério.xlsx
+    |       Lista de presença.docx
+    |       Procuraçao Fatima.jpg
+    |       
+    +---Apolo
+    |       Assuntos Apolo - Set 16.docx
+    |       Prev.Orç 2017.pdf
+    |       
+    +---CEDAE - 2007 - 2017
+    |       Carta CEDAE protocolada.pdf
+    |       CARTA CEDAE.docx
+    |       Medicao 01 2017.jpg
+    |       medicao 11 2007.jpg
+    |       medicao 12 2006.jpg
+    |       medicao 2 2007 - Tx Afericao Hidrometro.jpg
+    |       medicao 6 2017.jpg
+    |       Nada Consta 2017 - débito.jpg
+    |       OITAVA CAMARA CIVEL DO TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.pdf
+    |       Protocolo Ouvidoria e Conta Extra 2017.jpg
+    |       Screenshot_20170918-091107.png
+    |       
+    +---Comunicados
+    |       2016 - 02 Aviso CINOCRED nao cumprimento aviso prévio Francisca.docx
+    |       2016 - 03 - Falta Rogerio 27 06 2016.docx
+    |       2016 - 04 - Convocaçao AGE.docx
+    |       2016-01 - Atualizaçao Cadastral.docx
+    |       2017 06 26 - Avisos portoes, lixeiras e garagem.docx
+    |       2017-01 Aviso Modernizaçao do Elevador.docx
+    |       Agosto 2017 - AVISO DE OBRA - Esgoto Bloco 1.docx
+    |       Lista de Recebimento de Aviso de Modernizaçao Elevador.docx
+    |       
+    +---Dedetizaçao
+    |   +---2018
+    |   |       Lider - Apartamentos.pdf
+    |   |       Lider - Boletim_Prefeitura.pdf
+    |   |       Lider - INEA.pdf
+    |   |       Lider - INEA2.pdf
+    |   |       Lider - VIGILANCIASANITARIA.pdf
+    |   |       Lider.pdf
+    |   |       Rodox - Apartamento.docx
+    |   |       Rodox.docx
+    |   |       SANITAS.docx
+    |   |       
+    |   +---2019
+    |   |       Aviso Cond Heleri.pdf
+    |   |       Valores Individuais.pdf
+    |   |       
+    |   \---2020
+    +---Desligamento Francisca
+    |       Ciência Cinocred Francisca.jpg
+    |       IMG-20160815-WA0040.jpg
+    |       IMG_20160815_203751.jpg
+    |       IMG_20160815_203814.jpg
+    |       
+    +---Documentos Recebidos Cinocred
+    |   \---Ago 16
+    |           13o Rogerio 2016.jpg
+    |           Light_Ago_16_Atraso_Julho.jpg
+    |           VT Rogerio Set 16.jpg
+    |           
+    +---Eventos
+    |   |   2018-07-13 CARTA DE ADVERTENCIA 301 - Barulho excessivo.docx
+    |   |   20191016_084444.jpg
+    |   |   20191016_084456.jpg
+    |   |   20191016_084504.jpg
+    |   |   
+    |   +---2016_10_04_Motor_Portao
+    |   |       IMG-20161005-WA0010.jpg
+    |   |       IMG-20161005-WA0012.jpg
+    |   |       
+    |   +---2016_12_30_Troca_Tanque
+    |   |       IMG_20161227_194012.jpg
+    |   |       IMG_20161227_194020.jpg
+    |   |       IMG_20161227_194027.jpg
+    |   |       IMG_20161227_194046.jpg
+    |   |       IMG_20161227_194126.jpg
+    |   |       IMG_20161227_194139.jpg
+    |   |       IMG_20161227_194146.jpg
+    |   |       IMG_20161227_194157.jpg
+    |   |       IMG_20161228_092402.jpg
+    |   |       IMG_20161229_183608.jpg
+    |   |       IMG_20161229_183615.jpg
+    |   |       IMG_20161229_183623.jpg
+    |   |       IMG_20161229_183634.jpg
+    |   |       IMG_20161229_183640.jpg
+    |   |       IMG_20161229_183804.jpg
+    |   |       IMG_20161229_212224.jpg
+    |   |       IMG_20161229_212235.jpg
+    |   |       IMG_20161229_221530.jpg
+    |   |       IMG_20161229_221538.jpg
+    |   |       IMG_20161229_221551.jpg
+    |   |       IMG_20161230_181617.jpg
+    |   |       IMG_20161230_192313.jpg
+    |   |       IMG_20161230_192322.jpg
+    |   |       Pedido de depósito - Obras Tanque Garagem.docx
+    |   |       VID_20161229_212310.mp4
+    |   |       
+    |   +---2017_07_11 SUB FERIAS ROGERIO
+    |   |       RECIBO LUAN 1A SEM JUL17.docx
+    |   |       
+    |   +---2017_07_16_Lixeira
+    |   |       lixeira_1.jpg
+    |   |       lixeira_2.jpg
+    |   |       
+    |   +---2017_10_23_Greta_22
+    |   |       Casa Neca Mofo Parede.jpg
+    |   |       IMG_20171017_090839.jpg
+    |   |       IMG_20171017_090842.jpg
+    |   |       IMG_20171017_090856.jpg
+    |   |       IMG_20171017_090937.jpg
+    |   |       IMG_20171017_092935.jpg
+    |   |       sdu cgh 27 10.png
+    |   |       
+    |   +---2017_11_13_Impermeabilizaçao_Canhotinho
+    |   |       CameraZOOM-20170930150902267.jpg
+    |   |       Heleri_Impermeabilizacao_Predios_Nov_17.pdf
+    |   |       
+    |   +---2018-03-24-Toldo-22
+    |   |       DECLARAÇAO DE CONFORMIDADE.docx
+    |   |       img003.jpg
+    |   |       
+    |   +---2018-05-24-Reuniao-Pedido-Emprestimo-Rogerio
+    |   |       reuniao.txt.docx
+    |   |       
+    |   +---2018-09-30-Compra-Material
+    |   |       img027.jpg
+    |   |       img028.jpg
+    |   |       img029.jpg
+    |   |       img030.jpg
+    |   |       img031.jpg
+    |   |       img032.jpg
+    |   |       img033.jpg
+    |   |       img034.jpg
+    |   |       img035.jpg
+    |   |       Reembolso Materiais 2 de 3.docx
+    |   |       Reembolso Materiais.docx
+    |   |       
+    |   +---2018_03_10 Ajuste Redes Segurança 202 401
+    |   |       conformidade_202.jpg
+    |   |       conformidade_401.jpg
+    |   |       DECLARAÇAO DE CONFORMIDADE REDES 202.docx
+    |   |       DECLARAÇAO DE CONFORMIDADE REDES 401.docx
+    |   |       
+    |   +---2018_04_19_Caixa_Dagua_Defeito_Boia
+    |   |       Caixa Cheia Boia.jpg
+    |   |       Reparo Hidroluz.JPG
+    |   |       VID-20180419-WA0011.mp4
+    |   |       
+    |   +---2018_12_22_Ceia_Rogerio
+    |   |       Ajuda Ceia Rogério.docx
+    |   |       img001.jpg
+    |   |       
+    |   +---2019_02_19_Troca_tubulacao_bypass
+    |   |       Foto de Marcelo Lopes da Silva(1).jpg
+    |   |       Foto de Marcelo Lopes da Silva.jpg
+    |   |       Troca tubulaçao Bypass.docx
+    |   |       
+    |   +---2019_03_31_Obra_Telhado_Coluna2
+    |   |       Mapeamento danos 402 e Kitinete - Silva Guimaraes 24.docx
+    |   |       
+    |   +---2019_07_03_Subsituicao_Ferias_Rogerio
+    |   |       Recibo Pedro.docx
+    |   |       
+    |   +---2019_07_24_Telhado_Casa_Fatima_Esgoto_col_2
+    |   |       20190724_081446.jpg
+    |   |       20190724_081453.jpg
+    |   |       20190724_081457.jpg
+    |   |       20190724_081501.jpg
+    |   |       20190724_081507.jpg
+    |   |       20190724_081519.jpg
+    |   |       20190724_081753.jpg
+    |   |       20190724_081800.jpg
+    |   |       20190724_081805.jpg
+    |   |       20190724_083844.jpg
+    |   |       20190727_133126.jpg
+    |   |       20190727_133150.jpg
+    |   |       20190727_133206.jpg
+    |   |       20190727_133306.jpg
+    |   |       20190727_133336.jpg
+    |   |       20190730_131146.jpg
+    |   |       20190731_083905.jpg
+    |   |       20190731_083923.jpg
+    |   |       20190731_083934.jpg
+    |   |       20190731_083949.jpg
+    |   |       20190731_083951.jpg
+    |   |       20190731_083955.jpg
+    |   |       20190731_084015.jpg
+    |   |       20190731_084101.jpg
+    |   |       20190731_090542.jpg
+    |   |       20190731_090548.jpg
+    |   |       20190731_090605.jpg
+    |   |       20190731_092448.jpg
+    |   |       20190731_092451.jpg
+    |   |       20190731_092453.jpg
+    |   |       
+    |   +---2020-12-30-Ceia-Rogerio
+    |   |       Ajuda Ceia Rogério 2020.docx
+    |   |       
+    |   +---2020_01_16_Agua_Suja_CEDAE
+    |   |       20200116_220622.jpg
+    |   |       
+    |   +---2020_09_04_Obra_Caixa_Esgoto
+    |   |       Condomínio Heleri - Obra de urgência caixas esgoto.docx
+    |   |       
+    |   +---2021_07_06-Sub-Ferias_Rogerio
+    |   |       img024.jpg
+    |   |       sub ferias rogerio.docx
+    |   |       
+    |   +---2021_07_11_Reembolso_Apolo
+    |   |       Compra_Chave_boia.jpg
+    |   |       DANFE_chave_boia_danfe.pdf
+    |   |       DANFE_engate_rapido.pdf
+    |   |       DANFE_esquicho_metalico.pdf
+    |   |       Fatura_Gas_Mes_5_637614231792073546.pdf
+    |   |       Recibo_Cartorio.jpg
+    |   |       recibo_serviço.jpg
+    |   |       
+    |   +---2021_11_11-Condominios Atraso
+    |   |       Pag 302 atrasado.jpg
+    |   |       
+    |   +---2022_03_01_porta_hidrometro
+    |   |       20220307_085427.jpg
+    |   |       20220310_133424.jpg
+    |   |       
+    |   +---2022_07_09_Compra_Calha_Leroy
+    |   +---2022_08_05-Sub-Ferias-Rogerio
+    |   |       Sub Férias Rogério Jul 22.docx
+    |   |       Sub Férias Rogério Jul 23.docx
+    |   |       
+    |   +---2023_07_13_Compras_Cadeados_Troca_Chaves
+    |   |       20231126_112646.jpg
+    |   |       20231126_112653.jpg
+    |   |       
+    |   +---2023_08_04_Escada_Rogerio
+    |   |       20230711_143517.jpg
+    |   |       20230716_154529.jpg
+    |   |       Screenshot_20230813_004717_WhatsApp.jpg
+    |   |       Screenshot_20230813_004723_WhatsApp.jpg
+    |   |       Screenshot_20230813_004728_WhatsApp.jpg
+    |   |       
+    |   +---2023_09_06_Entrega_Primavera_Rogerio_Ausente
+    |   +---2023_09_30_Compras_Sensor_Boia_Refletor_Dobradiça
+    |   |       20231001_231540-SensorPresença.jpg
+    |   |       20231001_231544-Drobradiças.jpg
+    |   |       Chave Boia Elétrica Para Bomba De Agua - Margirius 15a.pdf
+    |   |       Refletor Slim Led 100w 6500k Ip65 7500 Lumens Avant.pdf
+    |   |       
+    |   +---2023_11_23_Compra_Microondas
+    |   |       DANFE.pdf
+    |   |       
+    |   +---2023_12_26_Cancelamento_Gas_Naturgy
+    |   |       Ata AGO 2023 06 15 - Condomínio.pdf
+    |   |       Carta de Cancelamento de Serviço.docx
+    |   |       Carta_de_Cancelamento_de_Servico_assinado.pdf
+    |   |       CNPJ-MF-Heleri.pdf
+    |   |       Identidade_MLS_02948484790.pdf
+    |   |       Whastup atendimento.docx
+    |   |       
+    |   +---2024_04_01_Dissidio_2024
+    |   |       convencao-coletiva-de-trabalho-2024-2025.pdf
+    |   |       
+    |   +---2024_05_14_entulho_rogerio
+    |   |       Screenshot_20240514_185553_WhatsApp.jpg
+    |   |       Screenshot_20240514_185558_WhatsApp.jpg
+    |   |       Screenshot_20240514_194929_WhatsApp.jpg
+    |   |       Screenshot_20240517_131931_WhatsApp.jpg
+    |   |       Screenshot_20240517_131956_WhatsApp.jpg
+    |   |       Vídeo de Marcelo.mp4
+    |   |       Audio de Marcelo.ogg
+    |   |       Audio de Marcelo10.ogg
+    |   |       Audio de Marcelo2.ogg
+    |   |       Audio de Marcelo3.ogg
+    |   |       Audio de Marcelo4.ogg
+    |   |       Audio de Marcelo5.ogg
+    |   |       Audio de Marcelo6.ogg
+    |   |       Audio de Marcelo7.ogg
+    |   |       Audio de Marcelo8.ogg
+    |   |       Audio de Marcelo9.ogg
+    |   |       
+    |   +---2024_08_04_Sub_Ferias_Rogerio
+    |   |       Sub Férias Rogério Jul 24.docx
+    |   |       
+    |   +---2025_02_05_Reembolsos_2024
+    |   |       Amazon.com.br - Pedido 701-8614810-4172253 - Pistola Metal.pdf
+    |   |       Amazon.com.br - Pedido 702-6437673-1361012 - Mangueira.pdf
+    |   |       Amazon.com.br - Pedido 702-6492318-2318617 - Engate rápido.pdf
+    |   |       Compra Ralo Abacaxi.jpg
+    |   |       Compras Material Elétrica e outros.jpg
+    |   |       Gmail - Dados do seu pedido - Mangueira.pdf
+    |   |       Recibo chaveiro.jpg
+    |   |       Recibo Valdeci Port. 26.jpg
+    |   |       servico_eletricista.jpg
+    |   |       
+    |   +---2025_02_18_Vazamento_SG22
+    |   |   |   NF ENF Serviço 1 de 3.pdf
+    |   |   |   Orçamento Bernal.pdf
+    |   |   |   Orçamento Casa Cardao.pdf
+    |   |   |   Proposta ENF Serviço.pdf
+    |   |   |   
+    |   |   +---Fotos Obra
+    |   |   \---Vazamento
+    |   |           IMG-20250218-WA0000.jpg
+    |   |           IMG-20250218-WA0001.jpg
+    |   |           IMG-20250218-WA0002.jpg
+    |   |           Screenshot_20250228_064436_WhatsApp.jpg
+    |   |           Screenshot_20250228_064443_WhatsApp.jpg
+    |   |           Screenshot_20250228_064450_WhatsApp.jpg
+    |   |           Screenshot_20250228_064506_WhatsApp.jpg
+    |   |           Screenshot_20250228_064515_WhatsApp.jpg
+    |   |           Screenshot_20250228_064521_WhatsApp.jpg
+    |   |           Screenshot_20250228_064533_WhatsApp.jpg
+    |   |           Screenshot_20250228_064544_WhatsApp.jpg
+    |   |           Screenshot_20250228_064551_WhatsApp.jpg
+    |   |           Screenshot_20250228_064558_WhatsApp.jpg
+    |   |           Screenshot_20250228_064608_WhatsApp.jpg
+    |   |           Screenshot_20250228_064616_WhatsApp.jpg
+    |   |           Screenshot_20250228_064621_WhatsApp.jpg
+    |   |           VID-20250218-WA0003.mp4
+    |   |           
+    |   \---2025_11_16_Analise_Contas
+    |           abr2025.pdf
+    |           ago2025.pdf
+    |           Ajuste de cotas por causa da obra emergencial de esgoto.pdf
+    |           Balcte 2024-11.pdf
+    |           Balcte 2024-12.pdf
+    |           Balcte 2025-01 parcial.pdf
+    |           Contas Saldo Devedor 5 Fevereiro de 2025.pdf
+    |           Evidências custos Heleri desde JAN_2025.docx
+    |           fev2025.pdf
+    |           jan2025.pdf
+    |           jul2025.pdf
+    |           jun2025.pdf
+    |           mai2025.pdf
+    |           mar2025.pdf
+    |           Nota 2 de 3 Enoque.pdf
+    |           Nota 3 de 3 Enoque.pdf
+    |           Nota Caçamba.pdf
+    |           Nota Corrimao.pdf
+    |           Nota Enoque 1.pdf
+    |           nov2025.pdf
+    |           out2025.pdf
+    |           RECIBO Caçamba 16753.pdf
+    |           Recibos_Compras_2024.zip
+    |           set2025.pdf
+    |           Sintética recibos abertos - UFIR 2025-01.pdf
+    |           
+    +---Geral - Miscelania
+    |       ABADI - Busca Administradoras.docx
+    |       condo_set_2016.txt.docx
+    |       Informaçoes Administradora e Síndico.docx
+    |       Informaçoes Administradora e Síndico.pdf
+    |       
+    +---Pastas
+    |       201901.pdf
+    |       201902.pdf
+    |       201903.pdf
+    |       201904.pdf
+    |       201905.pdf
+    |       201906.pdf
+    |       201907.pdf
+    |       201908.pdf
+    |       201909.pdf
+    |       201910.pdf
+    |       201911.pdf
+    |       201912.pdf
+    |       202001.pdf
+    |       202002.pdf
+    |       202003.pdf
+    |       202004.pdf
+    |       202005.pdf
+    |       202006.pdf
+    |       202007.pdf
+    |       202008.pdf
+    |       202009.pdf
+    |       202010.pdf
+    |       202011.pdf
+    |       202012.pdf
+    |       202101.pdf
+    |       202102.pdf
+    |       202103.pdf
+    |       202104.pdf
+    |       202105.pdf
+    |       202106.pdf
+    |       202107.pdf
+    |       202108.pdf
+    |       202109.pdf
+    |       202110.pdf
+    |       202111.pdf
+    |       202112.pdf
+    |       202201.pdf
+    |       202202.pdf
+    |       202203.pdf
+    |       202204.pdf
+    |       202205.pdf
+    |       202206.pdf
+    |       202207.pdf
+    |       202208.pdf
+    |       202209.pdf
+    |       202210.pdf
+    |       202211.pdf
+    |       202212.pdf
+    |       202301.pdf
+    |       202302.pdf
+    |       202303.pdf
+    |       202304.pdf
+    |       202305.pdf
+    |       202306.pdf
+    |       202307.pdf
+    |       202308.pdf
+    |       202309.pdf
+    |       202310.pdf
+    |       202311.pdf
+    |       202312.pdf
+    |       202401.pdf
+    |       202402.pdf
+    |       202403.pdf
+    |       202404.pdf
+    |       202405.pdf
+    |       202406.pdf
+    |       202407.pdf
+    |       202408.pdf
+    |       
+    +---Proposta Caça Vazamentos
+    |       Contato Orçamento 2021.xlsx
+    |       Proposta de Serviço - Cond. Heleri (ID 9437).pdf
+    |       Proposta_KD_VAZAMENTOS.pdf
+    |       RELATORIO TÉCNICO - Cond. Ed. Heleri (ID 9437).pdf
+    |       
+    +---Proposta Extintores
+    |   \---2023
+    |           4837 CONDOMINIO DO EDIFICIO HELERIOrçamento.pdf
+    |           CONDOMINIO DO EDIFIO HELERI - RECARGA E AQUISIÇAO DE MATERIAL..pdf
+    |           Heleri-manutençao-12-06-2023.pdf
+    |           
+    +---Proposta Obra Telhado
+    |   +---2a rodada - Equivalencia de escopos
+    |   |       PORTAL DAS OBRAS - 01ORÇAMENTO MARCELO COND TELHADO.docx
+    |   |       RC - IMPERMEABILIZAÇAO TELHADO HELERI 2019.docx
+    |   |       
+    |   +---Aliança - Helder
+    |   |       Cond Silva Guimaraes x Aliança Engenharia.pdf
+    |   |       Proposta Comercial CONDOMINIO SILVA GUIMARAES.docx
+    |   |       
+    |   +---Architecon - Saburo
+    |   |       022.05.19_Condomínio do Edifício Heleri.pdf
+    |   |       
+    |   +---Portal das Obras - Antônio
+    |   |       ORÇAMENTO MARCELO COND TELHADO.docx
+    |   |       
+    |   \---RC - Edilson
+    |           027.jpg
+    |           EDIFICIO JOAQUIM MURTINHO.jpg
+    |           Edificio Ribeiro Campos - Av. Atlântica, 2906 - Copacabana.jpg
+    |           EDIFICIO RIO PERY  002.JPG
+    |           IMPERMEABILIZAÇAO TELHADO HELERI 2019.docx
+    |           Manta asfáltica aluminizada Calha.jpg
+    |           Manta asfáltica aluminizada Marquise.jpg
+    |           REFERENCIAS 2018.docx
+    |           REFERENCIAS COMERCIAIS.docx
+    |           SITE 2014 011.JPG
+    |           SITE 2014 017.JPG
+    |           SITE 2014 020.JPG
+    |           Studio Valor Arte - Rua Ministro Viveiros de Castro, 154 - Copacabana.jpg
+    |           THEATRO MUNICIPAL.jpg
+    |           
+    +---Propostas Administradoras
+    |   |   Comparativo_Administradoras_Ago_2016.xlsx
+    |   |   
+    |   +---Apolo
+    |   |       Proposta Cond. HELERI.pdf
+    |   |       Tabela periféricos - Heleri.pdf
+    |   |       
+    |   +---Celisa
+    |   |       APRESENTAÇAO CONDOMINIOS NOVA.doc
+    |   |       CONTRATO HELERI.doc
+    |   |       DIFERENCIAIS CONDOMINIOS - NOVA.doc
+    |   |       REFERENCIAS CONDOMINIOS.doc
+    |   |       
+    |   +---Centrimóveis
+    |   |       001 -  TABELA DE CUSTOS 2016.pdf
+    |   |       Apresentaçao Revista Centrimóveis.pdf
+    |   |       Proposta Contrato Comercial nº 597@ -Heleri.pdf
+    |   |       
+    |   +---Lumarj
+    |   |       Proposta de administraçao - Condomínio Heleri.pdf
+    |   |       
+    |   +---Masset
+    |   |       Balancete Prestaçao Serviços - Maria Helena.pdf
+    |   |       
+    |   +---Otimiza
+    |   |       Pr2016018.pdf
+    |   |       
+    |   +---Patronus
+    |   |       Modelo contrato de pretaçao de Serviço.doc
+    |   |       
+    |   \---ProHome
+    |           folderV2 copy.pdf
+    |           folder_mioloV2 copy.pdf
+    |           Proposta HELERI.pdf
+    |           Tabelas de Serviços Adicionais 2016.pdf
+    |           
+    +---Propostas Açoes 2025
+    |   +---Adequaçao portas de incêncio
+    |   |       Escopo.docx
+    |   |       
+    |   +---Manutençao corrimao porta de vidro
+    |   |       Escopo.docx
+    |   |       
+    |   +---Modernizaçao Interfone
+    |   |       Proposta 26670  26671 -  CONDOMINIO DO EDIFICIO HELERI (VIDO PORTEIRO COLETIVO IP + LOCAÇAO).pdf
+    |   |       Proposta Condominio Heleri Video Porteiro - Tijuca.pdf
+    |   |       
+    |   +---Obra telhado bloco 2
+    |   |   |   Assuntos Set_25 - Heleri - Conselho.docx
+    |   |   |   Assuntos Set_25 - Heleri - Telhado.docx
+    |   |   |   
+    |   |   +---Fotos
+    |   |   |   |   Telhado antes 2019.jpeg
+    |   |   |   |   
+    |   |   |   +---Dano 402 - Nov 24
+    |   |   |   |       WhatsApp Image 2024-11-25 at 20.39.14.jpeg
+    |   |   |   |       WhatsApp Image 2024-12-11 at 09.22.56.jpeg
+    |   |   |   |       WhatsApp Image 2024-12-20 at 21.35.26.jpeg
+    |   |   |   |       WhatsApp Image 2024-12-20 at 21.36.29.jpeg
+    |   |   |   |       WhatsApp Image 2024-12-20 at 21.37.13.jpeg
+    |   |   |   |       WhatsApp Image 2025-01-09 at 10.38.55.jpeg
+    |   |   |   |       WhatsApp Image 2025-01-09 at 10.38.56.jpeg
+    |   |   |   |       WhatsApp Image 2025-01-09 at 10.40.12.jpeg
+    |   |   |   |       WhatsApp Video 2024-12-20 at 21.33.01.mp4
+    |   |   |   |       
+    |   |   |   \---Telhado por dentro
+    |   |   |           20241228_141244.jpg
+    |   |   |           20241228_141248.jpg
+    |   |   |           20241228_141252.jpg
+    |   |   |           20241228_141252~2.jpg
+    |   |   |           20241228_141328.jpg
+    |   |   |           20241228_141342.jpg
+    |   |   |           20241228_141348.jpg
+    |   |   |           20241228_141357.jpg
+    |   |   |           20241228_141401.jpg
+    |   |   |           20241228_141406.jpg
+    |   |   |           20241228_141412.jpg
+    |   |   |           20241228_141419.jpg
+    |   |   |           20241228_141423.jpg
+    |   |   |           20241228_141428.jpg
+    |   |   |           20241228_141438.jpg
+    |   |   |           20241228_141449.jpg
+    |   |   |           20241228_141503.jpg
+    |   |   |           20241228_141508.jpg
+    |   |   |           20241228_141549.mp4
+    |   |   |           20241228_141729.jpg
+    |   |   |           
+    |   |   \---MV3 Ganhadora
+    |   |           2025 06 30 CONTRATO - 3 CONDOMINIO HELENICA.pdf
+    |   |           4 CONTRATO - 3 CONDOMINIO EDIFICIO HELERI.pdf
+    |   |           ajustes contrato v1.docx
+    |   |           art2020250191670_assinado_assinado.pdf
+    |   |           CONTRATO - 3 CONDOMINIO HELENICA.pdf
+    |   |           envio condominos obra telhado.docx
+    |   |           escopo obra detalhado reuniao mv3.docx
+    |   |           NF CONDOMINIO HELERI.pdf
+    |   |           
+    |   +---Poda árvore empresa particular
+    |   |       Escopo.docx
+    |   |       
+    |   +---Portao de garagem interno automático e Sinalizador
+    |   |       Escopo.docx
+    |   |       
+    |   +---Rampa acessibilidade
+    |   |       20250304_-Condomínio Edifício Heleri-Projeto Rampa Acessibilidade Estudo 1, 2 e 3.pdf
+    |   |       20250304_-Condomínio Edifício Heleri-Projeto Rampa Acessibilidade-estudo 04_v1.pdf
+    |   |       
+    |   +---Reserva pagamento multa funcionário
+    |   |       Escopo.docx
+    |   |       
+    |   \---Troca de piso hall da portaria
+    |           20241017_153652.jpg
+    |           20241017_153705.jpg
+    |           20241017_154522.jpg
+    |           20241017_154527.jpg
+    |           20241017_154533.jpg
+    |           Escopo.docx
+    |           
+    +---Propostas Limpeza Cisterna
+    |   |   Limpeza Cisterna.xlsx
+    |   |   
+    |   +---2019
+    |   |   |   ECO1638-BOLETO 19 MAR 19.pdf
+    |   |   |   ECO1638-NF2128.pdf
+    |   |   |   
+    |   |   +---ACQUA CLean
+    |   |   |       acquaclean_proposta.JPG
+    |   |   |       CRH.pdf
+    |   |   |       image001.jpg
+    |   |   |       LicencaSanitaria.pdf
+    |   |   |       
+    |   |   +---Ecologica
+    |   |   |       CRH INEA.pdf
+    |   |   |       Ecologica Imunizaçoes e Serviços LTDA ME - Flay novo .jpeg
+    |   |   |       Principais clientes carta Maio2017 (2).pdf
+    |   |   |       Proposta Comercial 1958- 19  hig -.pdf
+    |   |   |       Sicaf dez 2018.pdf
+    |   |   |       
+    |   |   +---UNIPRAG
+    |   |   |       ORC423 HELERI.pdf
+    |   |   |       
+    |   |   \---Univet
+    |   |           COND TIJUCA - LCC.docx
+    |   |           INEA LIMPEZA FOLHA 1.pdf
+    |   |           INEA LIMPEZA FOLHA 2.pdf
+    |   |           INEA LIMPEZA FOLHA 3.pdf
+    |   |           INEA LIMPEZA FOLHA 4.pdf
+    |   |           INEA LIMPEZA FOLHA 5.pdf
+    |   |           
+    |   +---2020
+    |   |       5537 - Condominio do Edificio Heleri DDTZ CX 0126.docx
+    |   |       P- 1679 CONDOMINIO HELERI.pdf
+    |   |       Proposta_InsetMax.pdf
+    |   |       
+    |   +---2022
+    |   |       Cond do ed Tijuca dst drt limp 22.pdf
+    |   |       COND R SILVA GUIMARAES - B R.pdf
+    |   |       COND R SILVA GUIMARAES- LCC.pdf
+    |   |       CONDOMINIO DO EDIFICIO HELERI - PC 13426-22.docx.pdf
+    |   |       Proposta 9535.pdf
+    |   |       Proposta 9536.pdf
+    |   |       
+    |   \---2025
+    +---Propostas Manutençao
+    |   +---2020
+    |   |       00010 Sr. Marcelo Lopes.pdf
+    |   |       0009 Sr. Marcelo Lopes.pdf
+    |   |       Comparativo.xlsx
+    |   |       CTA-Vetores.pdf
+    |   |       CTF.pdf
+    |   |       LicencaSanitaria 2019-2020.pdf
+    |   |       P- 1679 CONDOMINIO HELERI.pdf
+    |   |       Proposta 4994.pdf
+    |   |       
+    |   \---Bombas
+    |           Bomba do Heleri.doc
+    |           HELERI REV MEC 12746.pdf
+    |           HELERI SUBST DE VALVULA DE RETENÇAO 12744.pdf
+    |           HELERI.pdf
+    |           HELERY - JUN-CLASS.pdf
+    |           
+    +---Propostas Modernizaçao Elevador
+    |   |   =_UTF-8_b_QXDvv71saWNlIFNlZyBSZXNwIENpdmlsIDIwMTRW_= =_UTF-8_b_OHlNREUySUNoRGIyMXdiR1YwWVNrdWNHUm0_PQ==_=.pdf
+    |   |   Comparaçao propostas elevador - Nov_16.xlsx
+    |   |   CONTRATO DE CONSERVAÇAO.pdf
+    |   |   CONTRATO DE MODERNIZAÇAO.pdf
+    |   |   Proposta ABMR.docx
+    |   |   Silva Guimaraes_24_48762016_MOD.doc
+    |   |   
+    |   \---SOS Elevadores - Vencedora
+    |           201611-0001081 Silva Guimaraes, 933.docx
+    |           Carta de cancelamento.doc
+    |           SILVA GUIMARAES , 24 NFSe_00004406_03243311.pdf
+    |           SILVA GUIMARAES SINAL MOD..PDF
+    |           
+    +---Propostas Obras Vistoria
+    |   |   A B ORÇAMENTO S334 Silva Tijuca.doc.docx
+    |   |   Compilaçao Propostas Obras Heleri 2017 - Auto Vistoria.xlsx
+    |   |   florido - Proposta Cond. Heleri.pdf
+    |   |   Heleri - Validacao de comunicado - 22-02-2018.docx
+    |   |   
+    |   +---BMJ Engenharia
+    |   |       ATESTADO - NORTE COR.zip
+    |   |       Danton.pdf
+    |   |       Francisco Cunha.pdf
+    |   |       Jardim das Hortencias.pdf
+    |   |       Netuno. fl.01.pdf
+    |   |       Netuno. fl.02.pdf
+    |   |       Planilha Orçamentária_Condomínio Heleri.pdf
+    |   |       PROPOSTA BMJ 2017_Condomínio Heleri.pdf
+    |   |       
+    |   +---Documentaçao aos Proponentes
+    |   |   |   Obras de Manutençao de acordo com Laudo de Vistoria - Condomínio Heleri.docx
+    |   |   |   
+    |   |   \---Fotos de referência
+    |   |       +---Barrilete
+    |   |       |       IMG_2538.JPG
+    |   |       |       IMG_2553.JPG
+    |   |       |       
+    |   |       +---Detalhes caixa de água
+    |   |       +---Detalhes Garagem
+    |   |       |       IMG_2567.JPG
+    |   |       |       IMG_2570.JPG
+    |   |       |       IMG_2571.JPG
+    |   |       |       IMG_2572.JPG
+    |   |       |       IMG_2573.JPG
+    |   |       |       IMG_2574.JPG
+    |   |       |       IMG_2575.JPG
+    |   |       |       IMG_2576.JPG
+    |   |       |       IMG_2577.JPG
+    |   |       |       IMG_2581.JPG
+    |   |       |       IMG_2583.JPG
+    |   |       |       IMG_2585.JPG
+    |   |       |       IMG_2586.JPG
+    |   |       |       IMG_2587.JPG
+    |   |       |       IMG_2588.JPG
+    |   |       |       
+    |   |       +---Detalhes Pilotis
+    |   |       |       IMG_2563.JPG
+    |   |       |       IMG_2564.JPG
+    |   |       |       IMG_2565.JPG
+    |   |       |       IMG_2569.JPG
+    |   |       |       
+    |   |       +---Detalhes Prisma
+    |   |       |   |   IMG_2513_2.JPG
+    |   |       |   |   IMG_2516.JPG
+    |   |       |   |   IMG_2520.JPG
+    |   |       |   |   IMG_2521.JPG
+    |   |       |   |   IMG_2523.JPG
+    |   |       |   |   IMG_2526.JPG
+    |   |       |   |   IMG_2527.JPG
+    |   |       |   |   IMG_2528.JPG
+    |   |       |   |   IMG_2529.JPG
+    |   |       |   |   IMG_2530.JPG
+    |   |       |   |   IMG_2531.JPG
+    |   |       |   |   IMG_2539.JPG
+    |   |       |   |   IMG_2540.JPG
+    |   |       |   |   IMG_2541.JPG
+    |   |       |   |   IMG_2542.JPG
+    |   |       |   |   IMG_2543.JPG
+    |   |       |   |   IMG_2544.JPG
+    |   |       |   |   IMG_2549.JPG
+    |   |       |   |   IMG_2551.JPG
+    |   |       |   |   IMG_2552.JPG
+    |   |       |   |   IMG_2556.JPG
+    |   |       |   |   IMG_2557.JPG
+    |   |       |   |   IMG_2558.JPG
+    |   |       |   |   IMG_2559.JPG
+    |   |       |   |   IMG_2560.JPG
+    |   |       |   |   IMG_2566.JPG
+    |   |       |   |   IMG_2568.JPG
+    |   |       |   |   IMG_2593.JPG
+    |   |       |   |   IMG_2596.JPG
+    |   |       |   |   IMG_2600.JPG
+    |   |       |   |   IMG_2602.JPG
+    |   |       |   |   IMG_2603.JPG
+    |   |       |   |   
+    |   |       |   \---Detalhe Tubulaçao Colada ao prédio
+    |   |       |           IMG_2515_1.JPG
+    |   |       |           IMG_2517.JPG
+    |   |       |           IMG_2518.JPG
+    |   |       |           IMG_2532.JPG
+    |   |       |           IMG_2533.JPG
+    |   |       |           IMG_2534.JPG
+    |   |       |           IMG_2536.JPG
+    |   |       |           IMG_2537.JPG
+    |   |       |           IMG_2545.JPG
+    |   |       |           IMG_2546.JPG
+    |   |       |           IMG_2547.JPG
+    |   |       |           IMG_2597.JPG
+    |   |       |           IMG_2598.JPG
+    |   |       |           IMG_2599.JPG
+    |   |       |           IMG_2601.JPG
+    |   |       |           
+    |   |       \---Detalhes áreas internas
+    |   |               IMG_2524.JPG
+    |   |               IMG_2525.JPG
+    |   |               IMG_2561.JPG
+    |   |               IMG_2562.JPG
+    |   |               
+    |   +---JRC Engenharia
+    |   |       Condomínio do Edifício Heleri - etapa 1.pdf
+    |   |       Condomínio do Edifício Heleri - etapa 2(1).pdf
+    |   |       Condomínio do Edifício Heleri - etapa 2.pdf
+    |   |       Condomínio do Edifício Heleri - Etapa 3.pdf
+    |   |       
+    |   +---Portal da Obras
+    |   |       COND HELERI - TIJUCA - MARCELO - REVISAO 1.docx
+    |   |       COND HILARE TIJUCA MARCELLO.docx
+    |   |       CONDOMINIO HELERRI 02 MARCELO.docx
+    |   |       
+    |   +---Propostas 2o escopo
+    |   |   |   A B ORÇAMENTO S334 Silva Tijuca.doc
+    |   |   |   COND HILARE TIJUCA MARCELLO.docx
+    |   |   |   Planilha Orçamentária_Condomínio Heleri_Revisao1.pdf
+    |   |   |   PROPOSTA BMJ 2017_Condomínio Heleri_revisao1.pdf
+    |   |   |   Proposta Cond. Heleri.pdf
+    |   |   |   
+    |   |   \---Acompanhamento
+    |   |           Análise Proposta Portal da Obras - Fev_18.xlsx
+    |   |           Autorizaçao adiantamento de pagamento de Obras 2017-2018.docx
+    |   |           Check List Obra Heleri Fev. 2018.xlsx
+    |   |           
+    |   \---Propostas Auto Vistoria Fase 2
+    |           CONDOMINIO HELERRI  SEGUNDA FASE(1).docx
+    |           CONDOMINIO HELERRI  SEGUNDA FASE.docx
+    |           Marcelo Hilare 01.docx
+    |           Marcelo Hilare 01.jpg
+    |           
+    +---Propostas Vistoria de Gás 2021
+    |       Apresentaçao.pdf
+    |       Contato Empresas Gas.xlsx
+    |       Detalhamento IPG.xlsx
+    |       FOR-062 - Condiçoes Gerais de Inspeçao Residencial - Individual - IN-73 - Rev. 00.pdf
+    |       FOR-41 00085_21  Condominio do Edificio Heleri .pdf
+    |       Instruçao Normativa nº 73 - 06.09.18.pdf
+    |       LAUDOS POSSIVEIS NA VISTORIA.pdf
+    |       Lei Nº 6890 de 18 de Setembro de 2014.pdf
+    |       
+    \---Seguro
+            2022 proposta efetivada condominio heleri Allianz.pdf
+            Aliiance 2023 - 2024.pdf
+            Alliance 2024 - 2025.PDF
+            Apolice Heleri 2017 2018.pdf
+            BDXP_230721_202009504_16_517720232N160035620_0___0_240330_220734.pdf
+            cartao tokio 20192020.pdf
+            CondicoesGerais 2017 2018.pdf
+            CondicoesGerais.pdf
+            CONDOMINIO DO EDIFICIO HELERI-BOLETO-2017.pdf
+            CONDOMINIO DO EDIFICIO HELERI-PROPOSTA-2017.pdf
+            proposta efetivada condominio 2019 2020.pdf
+            resumo tokio 2019 2020.pdf
+            seguro heleri 2020 2021.jpg
+            Seguro Predio Jun 2016 Jun 2017.pdf
+            seguro_2018_2019.pdf
+            Seguro_Heleri_2017_2018.pdf
+            

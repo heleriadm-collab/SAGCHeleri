@@ -1,0 +1,149 @@
+﻿Listagem de caminhos de pasta
+O número de série do volume é 8431-BE15
+C:.
++---Cameras
+|   \---2024
++---Condominio Laudo
+|   \---Fotos
++---Conselheiro 2015
++---Convençao e Regulamento
+|   +---1963
+|   +---1980
+|   \---Regulamento Interno
++---Documentos escaneados condomínio
+|   +---03-MARÇO 20
+|   +---04-ABRIL 20
+|   +---05-MAIO 20
+|   +---06-JUNHO 20
+|   +---07-JULHO 20
+|   +---08-AGOSTO 20
+|   +---09-SETEMBRO 20
+|   +---10-OUTUBRO 20
+|   \---11-NOVEMBRO 20
++---FOTOS COBERTURA 21 03 19
+|   +---ORIGINAL
+|   \---tratadas
+\---Síndico 2016 - 2017 - 2018 - 2019 - 2020 - 2021 - 2022 - 2023 - 2024 - 2025
+    +---AGE Fev 2019
+    +---AGE Mar 2025
+    +---AGE Set 2016
+    +---AGO Ago 2024
+    +---AGO Jun 2017
+    +---AGO Jun 2023
+    +---AGO Mai 2021
+    +---Apolo
+    +---CEDAE - 2007 - 2017
+    +---Comunicados
+    +---Dedetizaçao
+    |   +---2018
+    |   +---2019
+    |   \---2020
+    +---Desligamento Francisca
+    +---Documentos Recebidos Cinocred
+    |   \---Ago 16
+    +---Eventos
+    |   +---2016_10_04_Motor_Portao
+    |   +---2016_12_30_Troca_Tanque
+    |   +---2017_07_11 SUB FERIAS ROGERIO
+    |   +---2017_07_16_Lixeira
+    |   +---2017_10_23_Greta_22
+    |   +---2017_11_13_Impermeabilizaçao_Canhotinho
+    |   +---2018-03-24-Toldo-22
+    |   +---2018-05-24-Reuniao-Pedido-Emprestimo-Rogerio
+    |   +---2018-09-30-Compra-Material
+    |   +---2018_03_10 Ajuste Redes Segurança 202 401
+    |   +---2018_04_19_Caixa_Dagua_Defeito_Boia
+    |   +---2018_12_22_Ceia_Rogerio
+    |   +---2019_02_19_Troca_tubulacao_bypass
+    |   +---2019_03_31_Obra_Telhado_Coluna2
+    |   +---2019_07_03_Subsituicao_Ferias_Rogerio
+    |   +---2019_07_24_Telhado_Casa_Fatima_Esgoto_col_2
+    |   +---2020-12-30-Ceia-Rogerio
+    |   +---2020_01_16_Agua_Suja_CEDAE
+    |   +---2020_09_04_Obra_Caixa_Esgoto
+    |   +---2021_07_06-Sub-Ferias_Rogerio
+    |   +---2021_07_11_Reembolso_Apolo
+    |   +---2021_11_11-Condominios Atraso
+    |   +---2022_03_01_porta_hidrometro
+    |   +---2022_07_09_Compra_Calha_Leroy
+    |   +---2022_08_05-Sub-Ferias-Rogerio
+    |   +---2023_07_13_Compras_Cadeados_Troca_Chaves
+    |   +---2023_08_04_Escada_Rogerio
+    |   +---2023_09_06_Entrega_Primavera_Rogerio_Ausente
+    |   +---2023_09_30_Compras_Sensor_Boia_Refletor_Dobradiça
+    |   +---2023_11_23_Compra_Microondas
+    |   +---2023_12_26_Cancelamento_Gas_Naturgy
+    |   +---2024_04_01_Dissidio_2024
+    |   +---2024_05_14_entulho_rogerio
+    |   +---2024_08_04_Sub_Ferias_Rogerio
+    |   +---2025_02_05_Reembolsos_2024
+    |   +---2025_02_18_Vazamento_SG22
+    |   |   +---Fotos Obra
+    |   |   \---Vazamento
+    |   \---2025_11_16_Analise_Contas
+    +---Geral - Miscelania
+    +---Pastas
+    +---Proposta Caça Vazamentos
+    +---Proposta Extintores
+    |   \---2023
+    +---Proposta Obra Telhado
+    |   +---2a rodada - Equivalencia de escopos
+    |   +---Aliança - Helder
+    |   +---Architecon - Saburo
+    |   +---Portal das Obras - Antônio
+    |   \---RC - Edilson
+    +---Propostas Administradoras
+    |   +---Apolo
+    |   +---Celisa
+    |   +---Centrimóveis
+    |   +---Lumarj
+    |   +---Masset
+    |   +---Otimiza
+    |   +---Patronus
+    |   \---ProHome
+    +---Propostas Açoes 2025
+    |   +---Adequaçao portas de incêncio
+    |   +---Manutençao corrimao porta de vidro
+    |   +---Modernizaçao Interfone
+    |   +---Obra telhado bloco 2
+    |   |   +---Fotos
+    |   |   |   +---Dano 402 - Nov 24
+    |   |   |   \---Telhado por dentro
+    |   |   \---MV3 Ganhadora
+    |   +---Poda árvore empresa particular
+    |   +---Portao de garagem interno automático e Sinalizador
+    |   +---Rampa acessibilidade
+    |   +---Reserva pagamento multa funcionário
+    |   \---Troca de piso hall da portaria
+    +---Propostas Limpeza Cisterna
+    |   +---2019
+    |   |   +---ACQUA CLean
+    |   |   +---Ecologica
+    |   |   +---UNIPRAG
+    |   |   \---Univet
+    |   +---2020
+    |   +---2022
+    |   \---2025
+    +---Propostas Manutençao
+    |   +---2020
+    |   \---Bombas
+    +---Propostas Modernizaçao Elevador
+    |   \---SOS Elevadores - Vencedora
+    +---Propostas Obras Vistoria
+    |   +---BMJ Engenharia
+    |   +---Documentaçao aos Proponentes
+    |   |   \---Fotos de referência
+    |   |       +---Barrilete
+    |   |       +---Detalhes caixa de água
+    |   |       +---Detalhes Garagem
+    |   |       +---Detalhes Pilotis
+    |   |       +---Detalhes Prisma
+    |   |       |   \---Detalhe Tubulaçao Colada ao prédio
+    |   |       \---Detalhes áreas internas
+    |   +---JRC Engenharia
+    |   +---Portal da Obras
+    |   +---Propostas 2o escopo
+    |   |   \---Acompanhamento
+    |   \---Propostas Auto Vistoria Fase 2
+    +---Propostas Vistoria de Gás 2021
+    \---Seguro
