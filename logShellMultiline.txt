@@ -1,0 +1,19 @@
+-----  
+23/01/2026 
+17:00
+c
+cd c:\proj
+explorer .
+-----  
+23/01/2026 
+17:01
+c:
+cd c:\proj
+explorer .
+-----  
+23/01/2026 
+17:01
+c:
+cd c:\proj
+dir /b
+explorer .
