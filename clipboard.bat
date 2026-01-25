@@ -1,4 +1,5 @@
-c:
-cd c:\proj
-dir /b
-explorer .
+start chrome "https://drive.google.com/drive/u/6/my-drive"
+start chrome "https://drive.google.com/drive/u/6/search?q=Q260121_1804"
+start chrome  --incognito "https://drive.google.com/drive/folders/1rDrqnBcsaWyPSHLcixBBfG4yTXkdGIHZ?q=telhado"
+start chrome  --incognito "https://drive.google.com/drive/folders/1rDrqnBcsaWyPSHLcixBBfG4yTXkdGIHZ?q=Q260121_1804"
+start chrome --incognito "https://drive.google.com/drive/folders/1rDrqnBcsaWyPSHLcixBBfG4yTXkdGIHZ?usp=sharing"

@@ -17,3 +17,77 @@ c:
 cd c:\proj
 dir /b
 explorer .
+-----  
+25/01/2026 
+15:35
+https://drive.google.com/drive/u/6/my-drive
+-----  
+25/01/2026 
+15:35
+start chrome "https://drive.google.com/drive/u/6/my-drive"
+-----  
+25/01/2026 
+15:39
+start chrome "https://drive.google.com/drive/u/6/my-drive"
+start chrome "https://drive.google.com/drive/u/6/search?q=Q260121_1804"
+-----  
+25/01/2026 
+15:41
+start chrome "https://drive.google.com/drive/u/6/my-drive"
+start chrome "https://drive.google.com/drive/u/6/search?q=Q260121_1804"
+start chrome --incognito "https://drive.google.com/drive/folders/1rDrqnBcsaWyPSHLcixBBfG4yTXkdGIHZ?usp=sharing"
+-----  
+25/01/2026 
+16:00
+ -->
+-----  
+25/01/2026 
+16:00
+start chrome --new-window --incognito "https://www.youtube.com/playlist?list=PL_k7IjEgzOl7c3c6FzPA2YfqyOYp_-weN" "https://www.youtube.com/playlist?list=PL_k7IjEgzOl7frf_tc-NqvbQD2OMbkL1y"
+-----  
+25/01/2026 
+16:01
+https://www.youtube.com/@Heleri-h6h
+-----  
+25/01/2026 
+16:01
+start chrome --new-window --incognito "https://www.youtube.com/@Heleri-h6h" "https://www.youtube.com/playlist?list=PL_k7IjEgzOl7c3c6FzPA2YfqyOYp_-weN" "https://www.youtube.com/playlist?list=PL_k7IjEgzOl7frf_tc-NqvbQD2OMbkL1y"
+-----  
+25/01/2026 
+16:02
+start chrome --new-window --incognito "https://www.youtube.com/@Heleri-h6h" "https://www.youtube.com/playlist?list=PL_k7IjEgzOl7c3c6FzPA2YfqyOYp_-weN" "https://www.youtube.com/playlist?list=PL_k7IjEgzOl7frf_tc-NqvbQD2OMbkL1y"
+-----  
+25/01/2026 
+16:02
+start chrome --new-window "https://www.youtube.com/@Heleri-h6h" "https://www.youtube.com/playlist?list=PL_k7IjEgzOl7c3c6FzPA2YfqyOYp_-weN" "https://www.youtube.com/playlist?list=PL_k7IjEgzOl7frf_tc-NqvbQD2OMbkL1y"
+-----  
+25/01/2026 
+16:04
+start chrome --new-window "https://www.youtube.com/@Heleri-h6h" "https://studio.youtube.com/channel/UCFpdYR3WW6S6dMpGlU7rvLA/videos" "https://studio.youtube.com/channel/UCFpdYR3WW6S6dMpGlU7rvLA" "https://www.youtube.com/playlist?list=PL_k7IjEgzOl7c3c6FzPA2YfqyOYp_-weN" "https://www.youtube.com/playlist?list=PL_k7IjEgzOl7frf_tc-NqvbQD2OMbkL1y"
+-----  
+25/01/2026 
+16:06
+start chrome "https://drive.google.com/drive/u/6/my-drive"
+start chrome "https://drive.google.com/drive/u/6/search?q=Q260121_1804"
+start chrome --incognito "https://drive.google.com/drive/folders/1rDrqnBcsaWyPSHLcixBBfG4yTXkdGIHZ?usp=sharing"
+-----  
+25/01/2026 
+16:09
+start chrome "https://drive.google.com/drive/u/6/my-drive"
+start chrome "https://drive.google.com/drive/u/6/search?q=Q260121_1804"
+start chrome --incognito "https://drive.google.com/drive/folders/1rDrqnBcsaWyPSHLcixBBfG4yTXkdGIHZ?usp=sharing"
+-----  
+25/01/2026 
+16:09
+start chrome "https://drive.google.com/drive/u/6/my-drive"
+start chrome "https://drive.google.com/drive/u/6/search?q=Q260121_1804"
+start chrome  --incognito "https://drive.google.com/drive/u/6/search?q=telhado"
+start chrome --incognito "https://drive.google.com/drive/folders/1rDrqnBcsaWyPSHLcixBBfG4yTXkdGIHZ?usp=sharing"
+-----  
+25/01/2026 
+16:11
+start chrome "https://drive.google.com/drive/u/6/my-drive"
+start chrome "https://drive.google.com/drive/u/6/search?q=Q260121_1804"
+start chrome  --incognito "https://drive.google.com/drive/folders/1rDrqnBcsaWyPSHLcixBBfG4yTXkdGIHZ?q=telhado"
+start chrome  --incognito "https://drive.google.com/drive/folders/1rDrqnBcsaWyPSHLcixBBfG4yTXkdGIHZ?q=Q260121_1804"
+start chrome --incognito "https://drive.google.com/drive/folders/1rDrqnBcsaWyPSHLcixBBfG4yTXkdGIHZ?usp=sharing"
