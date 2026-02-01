@@ -6,6 +6,12 @@
       <description>últimas 10 notas on SAGC Heleri</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Home</title>
+    <link>https://heleriadm-collab.github.io/SAGCHeleri/Home/Home</link>
+    <guid>https://heleriadm-collab.github.io/SAGCHeleri/Home/Home</guid>
+    <description><![CDATA[  O SAGC é a forma que Gestão 2026 encontrou de estar presente mesmo quando precisar estar ausente !!! Para ficar atualizado, sempre é possível começar lendo o Diário Bordo do Mês Diário SemanaSTQQSSDsemana 01/202603.0104.01semana 02/202605.0106.0107.0108.0109.0111.01semana 03/202612.0113.0114.0115.0... ]]></description>
+    <pubDate>Sun, 01 Feb 2026 16:34:07 GMT</pubDate>
+  </item><item>
     <title>Q260201_1312 Fissura Parede Interna na Lixeira</title>
     <link>https://heleriadm-collab.github.io/SAGCHeleri/Home/questoes/Q260201_1312-Fissura-Parede-Interna-na-Lixeira</link>
     <guid>https://heleriadm-collab.github.io/SAGCHeleri/Home/questoes/Q260201_1312-Fissura-Parede-Interna-na-Lixeira</guid>
@@ -59,12 +65,6 @@
     <guid>https://heleriadm-collab.github.io/SAGCHeleri/Home/questoes/Q260129_2144-Cadastro-Cometa-Como-Fornecedor-Heleri</guid>
     <description><![CDATA[  Dar baixa questao Descrição: Motivação: Custo: N/A Risco: N/A Onde: Termo encerramento: metadado [year:: 2026] | [month:: 01] | [day:: 31] | [dayWeek:: Saturday] | [dayWeekShort:: Sat] | [monthYear:: Jan] | [weekNumber:: 05] | [quarter:: 1] | [dayOfYear:: 031] | [weekNumber2:: 05-] | [month2:: 01-]... ]]></description>
     <pubDate>Sat, 31 Jan 2026 12:44:00 GMT</pubDate>
-  </item><item>
-    <title>260130_COMUNICACAO_EXTRAJUDICIAL_remetente_HELERI_destinatario_MV3</title>
-    <link>https://heleriadm-collab.github.io/SAGCHeleri/Home/storage/260130_COMUNICACAO_EXTRAJUDICIAL_remetente_HELERI_destinatario_MV3</link>
-    <guid>https://heleriadm-collab.github.io/SAGCHeleri/Home/storage/260130_COMUNICACAO_EXTRAJUDICIAL_remetente_HELERI_destinatario_MV3</guid>
-    <description><![CDATA[ documento Descrição: - Arquivo: 260130_COMUNICACAO_EXTRAJUDICIAL_remetente_HELERI_destinatario_MV3 Objetivo: Motivação: Autor: Compõe: Composto por: Valor: N/A Análise: md5: Storage: Google Drive Heleri Adm Link: drive.google.com/file/d/1ligUTguTHo7NSvXk4vW0tE1SptGtKq2v/view Visualização metadado [y... ]]></description>
-    <pubDate>Sat, 31 Jan 2026 12:38:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
