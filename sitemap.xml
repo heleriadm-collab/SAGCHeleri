@@ -1,6 +1,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/Home</loc>
-    <lastmod>2026-02-04T21:10:10.000Z</lastmod>
+    <lastmod>2026-02-05T14:33:56.000Z</lastmod>
   </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/Index</loc>
     <lastmod>2026-01-28T21:59:03.000Z</lastmod>
@@ -101,6 +101,9 @@
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/diario/2026-02-04</loc>
     <lastmod>2026-02-04T18:34:00.000Z</lastmod>
   </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/diario/2026-02-05</loc>
+    <lastmod>2026-02-05T12:12:00.000Z</lastmod>
+  </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/estudos/2601-Estudo-Efici%C3%AAncia-da-Forma-dos-Registros-Obsidian</loc>
     <lastmod>2026-01-03T17:13:00.000Z</lastmod>
   </url><url>
@@ -175,6 +178,9 @@
   </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/heleri/Pasta-Presta%C3%A7%C3%A3o-de-Contas</loc>
     <lastmod>2026-01-12T18:33:00.000Z</lastmod>
+  </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/heleri/Plano-Comunica%C3%A7%C3%A3o-e-Controle-Tarefas-Zeladoria-v01</loc>
+    <lastmod>2026-02-05T13:12:00.000Z</lastmod>
   </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/heleri/SIGEM---Sistema-Apolo</loc>
     <lastmod>2026-01-15T20:31:00.000Z</lastmod>
@@ -749,6 +755,9 @@
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/storage/260203_Comprovante_Pgto_Valdeci_Servicos_Jan_2026</loc>
     <lastmod>2026-02-04T20:12:00.000Z</lastmod>
   </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/storage/2602_Atividades_Zeladoria_fev26_v1</loc>
+    <lastmod>2026-02-05T14:24:00.000Z</lastmod>
+  </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/storage/2602_Recibo_Sr_Valdeci_Servicos_Jan_2026</loc>
     <lastmod>2026-02-04T20:08:00.000Z</lastmod>
   </url><url>
@@ -788,11 +797,50 @@
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/tarefas/Limpeza-Caixa-Gordura</loc>
     <lastmod>2026-01-15T20:52:00.000Z</lastmod>
   </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/tarefas/Limpeza-Escadas</loc>
+    <lastmod>2026-02-05T12:21:00.000Z</lastmod>
+  </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/tarefas/Limpeza-Garagem</loc>
+    <lastmod>2026-02-05T12:21:00.000Z</lastmod>
+  </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/tarefas/Limpeza-Hall-Andar-Cobertura</loc>
+    <lastmod>2026-02-05T12:24:00.000Z</lastmod>
+  </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/tarefas/Limpeza-Hall-Andar-Portaria</loc>
+    <lastmod>2026-02-05T12:24:00.000Z</lastmod>
+  </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/tarefas/Limpeza-Hall-Entrada-Servi%C3%A7o</loc>
+    <lastmod>2026-02-05T12:23:00.000Z</lastmod>
+  </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/tarefas/Limpeza-Quartinho-Portaria</loc>
+    <lastmod>2026-02-05T12:21:00.000Z</lastmod>
+  </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/tarefas/Limpeza-Terra%C3%A7o</loc>
+    <lastmod>2026-02-05T12:21:00.000Z</lastmod>
+  </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/tarefas/Limpeza-das-Calhas</loc>
+    <lastmod>2026-02-05T12:20:00.000Z</lastmod>
+  </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/tarefas/Limpeza-do-Elevador</loc>
+    <lastmod>2026-02-05T12:21:00.000Z</lastmod>
+  </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/tarefas/Rega-das-Plantas</loc>
     <lastmod>2026-01-15T20:52:00.000Z</lastmod>
   </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/tarefas/Remo%C3%A7%C3%A3o-Lixo-Recicl%C3%A1vel</loc>
+    <lastmod>2026-02-05T12:20:00.000Z</lastmod>
+  </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/tarefas/Remo%C3%A7%C3%A3o-Lixo</loc>
+    <lastmod>2026-02-05T12:20:00.000Z</lastmod>
+  </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/tarefas/Remo%C3%A7%C3%A3o-do-Lixo</loc>
     <lastmod>2026-01-15T20:58:00.000Z</lastmod>
+  </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/tarefas/Retirada-do-Lixo-Recicl%C3%A1vel</loc>
+    <lastmod>2026-02-05T12:20:00.000Z</lastmod>
+  </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/tarefas/Retirada-do-Lixo</loc>
+    <lastmod>2026-02-05T12:20:00.000Z</lastmod>
   </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/tarefas/temporarias/Obras-Telhado-BL2</loc>
     <lastmod>2026-01-25T18:09:00.000Z</lastmod>
