@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"04cf849acfd3a7b6","type":"file","file":"dashboards/Visão Geral.md","x":-140,"y":-1280,"width":640,"height":1280,"color":"3"},
+		{"id":"36814a8cded9c062","type":"file","file":"diario/2026-03-02.md","x":-880,"y":-480,"width":580,"height":600},
+		{"id":"4b14c718fe17755d","type":"file","file":"questoes/Q260105_1445 Aquisição de Tampa de Bueiro Hidráulico.md","x":-680,"y":-1320,"width":480,"height":580},
+		{"id":"933eb1d72657ef8c","type":"file","file":"fornecedores/Arrumaí - Reparos Domésticos.md","x":-1520,"y":-1320,"width":560,"height":760},
+		{"id":"b5c8cf5a547ab650","type":"file","file":"diario/2026-03-04.md","x":-1920,"y":-440,"width":880,"height":560}
+	],
+	"edges":[
+		{"id":"ce559c3117d5053c","fromNode":"36814a8cded9c062","fromSide":"left","toNode":"933eb1d72657ef8c","toSide":"right"},
+		{"id":"10ba340be1277553","fromNode":"36814a8cded9c062","fromSide":"right","toNode":"4b14c718fe17755d","toSide":"bottom"}
+	]
+}
