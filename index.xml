@@ -15,7 +15,7 @@
     <title>2026-03-23</title>
     <link>https://heleriadm-collab.github.io/SAGCHeleri/Home/diario/2026-03-23</link>
     <guid>https://heleriadm-collab.github.io/SAGCHeleri/Home/diario/2026-03-23</guid>
-    <description><![CDATA[ diario_heleri 🏠 Home 11:05 Ato Adm. - Gestão Heleri - OQ Em Gestão Condominial do Heleri, segue registro de ato. ]]></description>
+    <description><![CDATA[ diario_heleri 🏠 Home metadado [year:: 2026] | [month:: 03] | [day:: 23] | [dayWeek:: Monday] | [dayWeekShort:: Mon] | [monthYear:: Mar] | [weekNumber:: 13] | [quarter:: 1] | [dayOfYear:: 082] | [weekNumber2:: 13-] | [month2:: 03-] | [day2:: 23-]. ]]></description>
     <pubDate>Mon, 23 Mar 2026 12:00:00 GMT</pubDate>
   </item><item>
     <title>2026-03-20</title>
@@ -35,12 +35,6 @@
     <guid>https://heleriadm-collab.github.io/SAGCHeleri/Home/dashboards/Vis%C3%A3o-das-Quest%C3%B5es</guid>
     <description><![CDATA[ Questões Por Área A FAZER AreaRegistroADMINISTRADORAQ260112_1554 Dúvidas Leitura Pasta Dezembro 2025Q260112_1543 Converter Livro Registros Condomínio para DigitalQ260107_1745 Heleri - Troca nome condômino 402 - Continua Maria de FatimaAQUISICAOQ260105_1445 Aquisição de Tampa de Bueiro HidráulicoCONT... ]]></description>
     <pubDate>Thu, 19 Mar 2026 15:40:44 GMT</pubDate>
-  </item><item>
-    <title>DOC260317 Orçamento IMUNIZARIO LTDA Limpeza Caixa D Agua</title>
-    <link>https://heleriadm-collab.github.io/SAGCHeleri/Home/DOC260317-Or%C3%A7amento-IMUNIZARIO-LTDA-Limpeza-Caixa-D-Agua</link>
-    <guid>https://heleriadm-collab.github.io/SAGCHeleri/Home/DOC260317-Or%C3%A7amento-IMUNIZARIO-LTDA-Limpeza-Caixa-D-Agua</guid>
-    <description><![CDATA[ orcamento REM == RETIRA-SE O MD5 PARA INTEGRIDADE == certutil -hashfile &quot;DOC260317_Orçamento_IMUNIZARIO_LTDA_Limpeza_Caixa_D_Agua.pdf&quot; md5 Descrição: - Arquivo: DOC260317_Orçamento_IMUNIZARIO_LTDA_Limpeza_Caixa_D_Agua.pdf Objetivo: (1) executar Limpeza Caixa-D’Água Motivação: (1) Q260317_1... ]]></description>
-    <pubDate>Thu, 19 Mar 2026 13:59:00 GMT</pubDate>
   </item><item>
     <title>DOC260317 Orçamento IMUNIZARIO LTDA Limpeza Caixa D Agua</title>
     <link>https://heleriadm-collab.github.io/SAGCHeleri/Home/storage/DOC260317-Or%C3%A7amento-IMUNIZARIO-LTDA-Limpeza-Caixa-D-Agua</link>
@@ -65,6 +59,12 @@
     <guid>https://heleriadm-collab.github.io/SAGCHeleri/Home/locais/instalacoes/Caixa-DAgua</guid>
     <description><![CDATA[ instalacao Descrição: Onde: Andar Cobertura, Bloco 2 Composta por: Compõe: Andar Cobertura, Bloco 2 Tarefas de Rotina: Custo: Fornecedor: Análise: Risco: metadado [year:: 2026] | [month:: 03] | [day:: 19] | [dayWeek:: Thursday] | [dayWeekShort:: Thu] | [monthYear:: Mar] | [weekNumber:: 12] | [quarte... ]]></description>
     <pubDate>Thu, 19 Mar 2026 13:37:00 GMT</pubDate>
+  </item><item>
+    <title>DOC260317 Orçamento Limper LTDA Limpeza Caixa D Agua</title>
+    <link>https://heleriadm-collab.github.io/SAGCHeleri/Home/storage/DOC260317-Or%C3%A7amento-Limper-LTDA-Limpeza-Caixa-D-Agua</link>
+    <guid>https://heleriadm-collab.github.io/SAGCHeleri/Home/storage/DOC260317-Or%C3%A7amento-Limper-LTDA-Limpeza-Caixa-D-Agua</guid>
+    <description><![CDATA[ orcamento REM == RETIRA-SE O MD5 PARA INTEGRIDADE == certutil -hashfile &quot;DOC260317_Orçamento_Limper_LTDA_Limpeza_Caixa_D_Agua.pdf&quot; md5 Descrição: - Arquivo: DOC260317_Orçamento_Limper_LTDA_Limpeza_Caixa_D_Agua.pdf Objetivo: (1) executar Limpeza Caixa-D’Água Motivação: (1) Q260317_1005 Orça... ]]></description>
+    <pubDate>Thu, 19 Mar 2026 13:31:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
