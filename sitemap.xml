@@ -1,6 +1,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/Home</loc>
-    <lastmod>2026-03-19T15:40:44.000Z</lastmod>
+    <lastmod>2026-03-24T13:44:34.000Z</lastmod>
   </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/Index</loc>
     <lastmod>2026-01-28T21:59:03.000Z</lastmod>
@@ -15,7 +15,7 @@
     <lastmod>2026-01-05T12:32:00.000Z</lastmod>
   </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/dashboards/Vis%C3%A3o-das-Quest%C3%B5es</loc>
-    <lastmod>2026-03-19T15:40:44.000Z</lastmod>
+    <lastmod>2026-03-24T13:44:34.000Z</lastmod>
   </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/diario/2026-01-03</loc>
     <lastmod>2026-01-03T16:37:00.000Z</lastmod>
@@ -208,6 +208,12 @@
   </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/diario/2026-03-23</loc>
     <lastmod>2026-03-23T12:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/diario/2026-03-24</loc>
+    <lastmod>2026-03-24T13:43:00.000Z</lastmod>
+  </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/diario/2026-03-25</loc>
+    <lastmod>2026-03-25T10:49:00.000Z</lastmod>
   </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/estudos/2601-Estudo-Efici%C3%AAncia-da-Forma-dos-Registros-Obsidian</loc>
     <lastmod>2026-01-03T17:13:00.000Z</lastmod>
