@@ -1,4 +1,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/Home</loc>
+    <lastmod>2026-03-24T13:44:34.000Z</lastmod>
+  </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/Index</loc>
+    <lastmod>2026-01-28T21:59:03.000Z</lastmod>
+  </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/README</loc>
+    <lastmod>2026-01-28T21:38:49.000Z</lastmod>
+  </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/dashboards/Status-Quo-Por-Assunto</loc>
     <lastmod>2026-01-05T12:59:00.000Z</lastmod>
   </url><url>
@@ -6,7 +15,10 @@
     <lastmod>2026-01-05T12:32:00.000Z</lastmod>
   </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/dashboards/Vis%C3%A3o-das-Quest%C3%B5es</loc>
-    <lastmod>2026-03-25T15:32:04.000Z</lastmod>
+    <lastmod>2026-03-24T13:44:34.000Z</lastmod>
+  </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/diario/2026-01-02</loc>
+    <lastmod>2026-04-02T13:11:00.000Z</lastmod>
   </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/diario/2026-01-03</loc>
     <lastmod>2026-01-03T16:37:00.000Z</lastmod>
@@ -221,6 +233,27 @@
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/diario/2026-03-30</loc>
     <lastmod>2026-03-30T14:06:00.000Z</lastmod>
   </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/diario/2026-03-31</loc>
+    <lastmod>2026-03-31T16:11:00.000Z</lastmod>
+  </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/diario/2026-04-01</loc>
+    <lastmod>2026-04-01T13:11:00.000Z</lastmod>
+  </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/diario/2026-04-02</loc>
+    <lastmod>2026-04-02T13:11:00.000Z</lastmod>
+  </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/diario/2026-04-04</loc>
+    <lastmod>2026-04-04T21:33:00.000Z</lastmod>
+  </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/diario/2026-04-05</loc>
+    <lastmod>2026-04-05T21:33:00.000Z</lastmod>
+  </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/diario/2026-04-06</loc>
+    <lastmod>2026-04-06T11:07:00.000Z</lastmod>
+  </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/diario/2026-04-07</loc>
+    <lastmod>2026-04-07T12:25:00.000Z</lastmod>
+  </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/estudos/2601-Estudo-Efici%C3%AAncia-da-Forma-dos-Registros-Obsidian</loc>
     <lastmod>2026-01-03T17:13:00.000Z</lastmod>
   </url><url>
@@ -232,6 +265,9 @@
   </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/fornecedores/+55-21-97085-9618---Milton-MV3</loc>
     <lastmod>2026-01-08T12:55:00.000Z</lastmod>
+  </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/fornecedores/+55-21-98882-2114-Jose-Carlos-Pingitore-CREA</loc>
+    <lastmod>2026-04-02T13:59:00.000Z</lastmod>
   </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/fornecedores/+55-21-99649-0589-Luis-Eng.</loc>
     <lastmod>2026-01-31T12:20:00.000Z</lastmod>
@@ -287,6 +323,9 @@
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/fornecedores/Limper---Limpeza-e-Higieniza%C3%A7%C3%A3o-LTDA</loc>
     <lastmod>2026-03-19T13:20:00.000Z</lastmod>
   </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/fornecedores/Luis-Engenheiro-t%C3%A9cnico-perito</loc>
+    <lastmod>2026-01-26T15:29:00.000Z</lastmod>
+  </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/fornecedores/Luiz-Engenheiro-t%C3%A9cnico-perito</loc>
     <lastmod>2026-01-26T15:29:00.000Z</lastmod>
   </url><url>
@@ -306,7 +345,7 @@
     <lastmod>2026-02-19T19:11:00.000Z</lastmod>
   </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/fornecedores/Reparofix---Servi%C3%A7os-Gerais</loc>
-    <lastmod>2026-02-13T20:41:58.000Z</lastmod>
+    <lastmod>2026-02-13T22:37:25.000Z</lastmod>
   </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/fornecedores/Rogerio-Zelador</loc>
     <lastmod>2026-01-06T19:54:00.000Z</lastmod>
@@ -343,6 +382,9 @@
   </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/heleri/AGE---Janeiro-2026</loc>
     <lastmod>2026-01-15T19:57:00.000Z</lastmod>
+  </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/heleri/ART---Anota%C3%A7%C3%A3o-de-Responsabilidade-T%C3%A9cnica</loc>
+    <lastmod>2026-04-07T15:40:00.000Z</lastmod>
   </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/heleri/Art-389---CC</loc>
     <lastmod>2026-02-27T00:42:00.000Z</lastmod>
@@ -415,6 +457,9 @@
   </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/heleri/md5</loc>
     <lastmod>2026-01-12T14:41:00.000Z</lastmod>
+  </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/heleri/nota%C3%A7%C3%A3o-de-redu%C3%A7%C3%A3o-a-termo</loc>
+    <lastmod>2026-03-28T20:46:00.000Z</lastmod>
   </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/locais/Andar-1</loc>
     <lastmod>2026-01-07T21:57:00.000Z</lastmod>
@@ -969,7 +1014,7 @@
     <lastmod>2026-01-12T16:00:00.000Z</lastmod>
   </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/storage/20260109_Posicao_MV3_Ao_Pedido_Distrato---CATALOGAR</loc>
-    <lastmod>2026-01-09T22:32:56.000Z</lastmod>
+    <lastmod>2026-03-17T17:00:30.000Z</lastmod>
   </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/storage/250705_Vistorias-Telhado_incidente_falta_ralo</loc>
     <lastmod>2026-01-22T17:53:00.000Z</lastmod>
@@ -1118,6 +1163,9 @@
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/storage/DOC260313_Denuncia_ao_CREA_Contra_Eng_Alexandra</loc>
     <lastmod>2026-03-14T00:05:00.000Z</lastmod>
   </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/storage/DOC260313_Denuncia_ao_CREA_Contra_Eng_Alexandra_MV3</loc>
+    <lastmod>2026-03-14T00:05:00.000Z</lastmod>
+  </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/storage/DOC260317-Or%C3%A7amento-IMUNIZARIO-LTDA-Limpeza-Caixa-D-Agua</loc>
     <lastmod>2026-03-19T13:59:00.000Z</lastmod>
   </url><url>
@@ -1136,8 +1184,14 @@
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/storage/DOC260320-Or%C3%A7amento-Inset-Max-Limpeza_Reservatorio-Ao-Heleri</loc>
     <lastmod>2026-03-23T17:52:00.000Z</lastmod>
   </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/storage/DOC260327_ART_2020260090776_Laudo_Tecnico_Eng_Luis_Claudio</loc>
+    <lastmod>2026-03-27T15:44:00.000Z</lastmod>
+  </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/storage/DOC2603_Pauta_Roteiro_Reuniao_MV3_20260313</loc>
     <lastmod>2026-03-12T13:54:00.000Z</lastmod>
+  </url><url>
+    <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/storage/DOC2603_v02-Documento-Solicita%C3%A7%C3%A3o-Proposta-Telhado-Bloco-2</loc>
+    <lastmod>2026-03-28T20:12:00.000Z</lastmod>
   </url><url>
     <loc>https://heleriadm-collab.github.io/SAGCHeleri/Home/storage/NF260121_Limpador-P%C3%B3s-Obra-Vodocia-Remove-Cimento-E-Rejuntes-5-Litros</loc>
     <lastmod>2026-01-21T21:17:00.000Z</lastmod>
