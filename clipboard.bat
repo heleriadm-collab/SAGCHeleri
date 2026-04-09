@@ -1,1 +1,1 @@
-Explorer "G:\storage\bureau\heleri\Gestao_Ana"
+Explorer "I:\heleri.adm\doc"

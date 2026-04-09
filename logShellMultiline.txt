@@ -99,3 +99,11 @@ start chrome "https://drive.google.com/drive/u/6/my-drive"
 08/04/2026 
 09:53
 Explorer "G:\storage\bureau\heleri\Gestao_Ana"
+-----  
+09/04/2026 
+12:25
+[[diario/2026-04-07.md|07 ABR]]
+-----  
+09/04/2026 
+12:25
+Explorer "I:\heleri.adm\doc"
